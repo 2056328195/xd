@@ -1,6 +1,6 @@
 /*******************************
 [rewrite_local]
-^http:\/\/www\.api-yun-aliyun\.com\/within\/withinSeven\/base\ url script-response-body https://github.com/2056328195/xd/blob/main/ldq.js
+^http:\/\/www\.api-yun-aliyun\.com\/within\/withinSeven\/base\ url script-response-body https://raw.githubusercontent.com/2056328195/xd/main/ldq.js
 [mitm] 
 hostname = www.api-yun-aliyun.com
 *******************************/
